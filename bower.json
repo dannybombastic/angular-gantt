@@ -33,7 +33,7 @@
     "bootstrap": "^3.3.7",
     "css-element-queries": "^0.4.0",
     "font-awesome": "^4.7.0",
-    "jsplumb": "dannybombastic/community-edition.git#^2.3.2",
+    "jsplumb": "dannybombastic/community-edition#^2.3.2",
     "moment": "^2.18.1",
     "moment-range": "^3.0.3"
   }
